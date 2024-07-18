@@ -6,17 +6,16 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi
 
-I’m Zineb Senane, Double degree student in Computer Science at KTH Royal Institute of Technology and Telecom Paris with Machine Learning specialization.
-I'm a holder of Bachelor of engineering (Télécom Paris) and I completed my first master's year at Eurecom as a Data science and engineering student.
+I’m Zineb Senane, a Machine Learning Engineer driven by passion for research and curiosity. I hold a double degree in Computer Science and Engineering from KTH Royal Institute of Technology and Telecom Paris, specializing in Machine Learning.
 
 ## ✨ Education
-- Preparatory Classes at LYDEX (Lycee d'excellence)
+- Master of Science in Engineering in Computer Science and Engineering at KTH Royal Institute of Technology
 - Bachelor and Master of Science in Engineering at Telecom Paris
-- Master of Science in Engineering in Data Science at Eurecom
-- Master of Science in Engineering in Computer Science at KTH Royal Institute of Technology
+- Master of Science in Engineering in Data Science at Eurecom (M1)
+- Preparatory Classes at LYDEX (Lycee d'excellence - Benguerir)
 
 
 ## :loudspeaker: **How To Reach me ...**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-senane-9659aa1b7/)
-- `senane@kth.se`
+- `senane.zineb.mpsi@gmail.com`
 
